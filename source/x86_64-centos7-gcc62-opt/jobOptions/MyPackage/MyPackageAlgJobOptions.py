@@ -1,0 +1,1 @@
+../../../MyPackage/share/MyPackageAlgJobOptions.py

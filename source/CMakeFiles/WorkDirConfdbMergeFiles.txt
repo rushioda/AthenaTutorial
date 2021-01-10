@@ -1,0 +1,1 @@
+/home/rushioda/AthTutorial/source/x86_64-centos7-gcc62-opt/lib/libMyPackage.confdb
